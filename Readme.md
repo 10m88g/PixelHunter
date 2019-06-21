@@ -1,6 +1,6 @@
 # Личный проект «Пиксель хантер» [![Build status][travis-image]][travis-url]
 
-* Студент: [Александр Щербацкий](https://up.htmlacademy.ru/ecmascript/7/user/103788).
+* Студент: [Артём Грецков](https://up.htmlacademy.ru/ecmascript/7/user/103788).
 * Наставник: [Арсений Ильяшов](https://htmlacademy.ru/profile/id40943).
 
 ---
